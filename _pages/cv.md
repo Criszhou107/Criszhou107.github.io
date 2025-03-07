@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.C in Health Data Science, University of Manchester, 2023
+* B.S. in Financial Mathematics, Shanxi University of Finance and Economics, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Assistant
+  * University of Hong Kong
+  * Duties includes: Undertake clinical trial coordination and operations, including but not limited to research protocol design andmanagement, trial volunteer recruitment and screening, statistical support and advanced data analysis.
+  * Supervisor: Yibin Feng
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Big Data Analyst Intern
+  * MobTech Technology Co.Ltd
+  * Duties included: Participateinthecompletecleaning,organizing,analysis,miningandmodellingwork.
   
 Skills
 ======
