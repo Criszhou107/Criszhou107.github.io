@@ -11,9 +11,10 @@ I am a Research Assistant at the University of Hong Kong currently, with a Maste
 
 Education
 ======
+Msc in Health Data Science        University fo Manchester   
+Main Courses: Machine Learning and Advanced Data Methods, Statistical Modelling and Inference for Health, Modern Information Engineering
+BSc in Financial Mathematics       Shanxi University of Finance and Economics
+Mathematical Statistics,Time Series Analysis,Applied Stochastic Processes and Matlab Programme
 
-
-Academic Experiences
-======
 
 
